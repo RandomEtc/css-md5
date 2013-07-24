@@ -8,3 +8,4 @@ Walks CSS files and replaces contents of url() dependencies with paths to a CDN.
 
 Useful in conjunction with RandomEtc/css-deps and some judicious Makefiles.
 
+Also includes some code for rewriting link/script URLs in Express templates, not wired up yet (TODO).
