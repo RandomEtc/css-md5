@@ -1,6 +1,6 @@
 {
   "name": "css-md5",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Walks CSS files and replaces contents of url() dependencies with paths to a CDN.",
   "main": "index.js",
   "bin": {
