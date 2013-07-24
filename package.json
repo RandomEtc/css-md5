@@ -1,0 +1,27 @@
+{
+  "name": "css-md5",
+  "version": "0.0.0",
+  "description": "Walks CSS files and replaces contents of url() dependencies with paths to a CDN.",
+  "main": "index.js",
+  "bin": {
+    "css-md5": "cssmd5.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RandomEtc/css-md5.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Tom Carden",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "28e04eb0c19ec5ac27fdf73eae5582897917f47f",
+  "dependencies": {
+    "debug": "~0.7.2",
+    "rework": "~0.17.2"
+  }
+}
